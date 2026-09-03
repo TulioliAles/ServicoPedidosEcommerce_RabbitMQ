@@ -1,0 +1,11 @@
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\bin\Debug\net10.0\ServicePedido.Model.deps.json
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\bin\Debug\net10.0\ServicePedido.Model.dll
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\bin\Debug\net10.0\ServicePedido.Model.pdb
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\obj\Debug\net10.0\ServicePedido.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\obj\Debug\net10.0\ServicePedido.Model.AssemblyInfoInputs.cache
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\obj\Debug\net10.0\ServicePedido.Model.AssemblyInfo.cs
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\obj\Debug\net10.0\ServicePedido.Model.csproj.CoreCompileInputs.cache
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\obj\Debug\net10.0\ServicePedido.Model.dll
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\obj\Debug\net10.0\refint\ServicePedido.Model.dll
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\obj\Debug\net10.0\ServicePedido.Model.pdb
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Model\obj\Debug\net10.0\ref\ServicePedido.Model.dll

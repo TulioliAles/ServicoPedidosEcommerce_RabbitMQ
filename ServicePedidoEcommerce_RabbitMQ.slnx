@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/ServicePedido.Consumer/ServicePedido.Consumer.csproj" />
+  <Project Path="src/ServicePedido.Model/ServicePedido.Model.csproj" />
+  <Project Path="src/ServicePedido.Producer/ServicePedido.Producer.csproj" />
+</Solution>
