@@ -16,3 +16,6 @@ C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Producer\
 C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Producer\obj\Debug\net10.0\ServicePedido.Producer.pdb
 C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Producer\obj\Debug\net10.0\ServicePedido.Producer.genruntimeconfig.cache
 C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Producer\obj\Debug\net10.0\ref\ServicePedido.Producer.dll
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Producer\bin\Debug\net10.0\ServicePedido.Model.dll
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Producer\bin\Debug\net10.0\ServicePedido.Model.pdb
+C:\Users\Tulioli\dev\ServicePedidoEcommerce_RabbitMQ\src\ServicePedido.Producer\obj\Debug\net10.0\ServicePedido.Producer.sourcelink.json
