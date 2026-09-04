@@ -33,6 +33,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "ServicePedido.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ServicePedido.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServicePedido.Model.dll": {}
+        }
       }
     }
   },
@@ -82,11 +92,17 @@
         "system.threading.ratelimiting.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ServicePedido.Model/1.0.0": {
+      "type": "project",
+      "path": "../ServicePedido.Model/ServicePedido.Model.csproj",
+      "msbuildProject": "../ServicePedido.Model/ServicePedido.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "RabbitMQ.Client >= 7.2.2"
+      "RabbitMQ.Client >= 7.2.2",
+      "ServicePedido.Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -122,7 +138,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Tulioli\\dev\\ServicePedidoEcommerce_RabbitMQ\\src\\ServicePedido.Model\\ServicePedido.Model.csproj": {
+              "projectPath": "C:\\Users\\Tulioli\\dev\\ServicePedidoEcommerce_RabbitMQ\\src\\ServicePedido.Model\\ServicePedido.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

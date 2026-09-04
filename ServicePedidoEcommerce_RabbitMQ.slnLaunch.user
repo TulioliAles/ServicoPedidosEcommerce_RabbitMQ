@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\ServicePedido.Consumer\\ServicePedido.Consumer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\ServicePedido.Producer\\ServicePedido.Producer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

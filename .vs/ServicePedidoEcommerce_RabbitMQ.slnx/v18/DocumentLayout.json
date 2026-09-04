@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Tulioli\\dev\\ServicePedidoEcommerce_RabbitMQ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28C44459-4261-D093-60A1-3AD8866B3259}|src\\ServicePedido.Consumer\\ServicePedido.Consumer.csproj|c:\\users\\tulioli\\dev\\servicepedidoecommerce_rabbitmq\\src\\servicepedido.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C44459-4261-D093-60A1-3AD8866B3259}|src\\ServicePedido.Consumer\\ServicePedido.Consumer.csproj|solutionrelative:src\\servicepedido.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{503F3242-9F20-A831-2F1C-43F173E48997}|src\\ServicePedido.Producer\\ServicePedido.Producer.csproj|c:\\users\\tulioli\\dev\\servicepedidoecommerce_rabbitmq\\src\\servicepedido.producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{503F3242-9F20-A831-2F1C-43F173E48997}|src\\ServicePedido.Producer\\ServicePedido.Producer.csproj|solutionrelative:src\\servicepedido.producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\ServicePedidoEcommerce_RabbitMQ\\src\\ServicePedido.Producer\\Program.cs",
               "RelativeDocumentMoniker": "src\\ServicePedido.Producer\\Program.cs",
               "ToolTip": "C:\\Users\\Tulioli\\dev\\ServicePedidoEcommerce_RabbitMQ\\src\\ServicePedido.Producer\\Program.cs",
               "RelativeToolTip": "src\\ServicePedido.Producer\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T23:32:29.866Z",
+              "WhenOpened": "2026-09-03T23:32:29.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tulioli\\dev\\ServicePedidoEcommerce_RabbitMQ\\src\\ServicePedido.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ServicePedido.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\Tulioli\\dev\\ServicePedidoEcommerce_RabbitMQ\\src\\ServicePedido.Consumer\\Program.cs",
+              "RelativeToolTip": "src\\ServicePedido.Consumer\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T12:46:03.112Z",
               "EditorCaption": ""
             }
           ]
